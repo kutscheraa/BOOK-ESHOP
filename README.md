@@ -7,9 +7,10 @@ Pizzeria web-app (e-shop)
 Creating functional lightweight web-app to learn front-end/**mainly** back-end, while keeping in mind CAP theorem. My goal was also to create web-app that I can re-use for another class, where Im working with MySQL.
 
 ### Tech used:
-1) Flask (Python)
-2) HTML, CSS (TAILWIND), Vue.js, Jinja
-2) MongoDB (managed DB on DigitalOcean) + Redis for caching
-3) Docker
-4) Noe4J
+1) DigitalOcean linux droplet
+2) Flask (Python)
+3) HTML, CSS (TAILWIND), Vue.js, Jinja
+4) MongoDB + Redis for caching
+5) Docker for running both MySQL and NoSQL version of website on the same droplet
+6) Noe4J
 
