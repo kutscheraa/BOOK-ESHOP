@@ -4,7 +4,7 @@ Pizzeria web-app (e-shop)
 
 ## Main purpose
 
-Creating functional complex web-app to learn front-end/back-end, while keeping in mind CAP theorem. My goal was also to create web-app that I can re-use for another class, where Im working with MySQL.
+Creating functional lightweight web-app to learn front-end/**mainly** back-end, while keeping in mind CAP theorem. My goal was also to create web-app that I can re-use for another class, where Im working with MySQL.
 
 ### Tech used:
 1) Flask (Python)
