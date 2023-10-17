@@ -8,7 +8,7 @@ Creating functional complex web-app to learn front-end/back-end, while keeping i
 
 ### Tech used:
 1) Flask (Python)
-2) HTML, CSS (TAILWIND), JS
+2) HTML, CSS (TAILWIND), Vue.js, Jinja
 2) MongoDB (managed DB on DigitalOcean) + Redis for caching
 3) Docker
 4) Noe4J
