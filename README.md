@@ -2,7 +2,7 @@
 
 Book e-shop web-app
 
-![alt text]()
+![alt text](bookstore_preview.png)
 
 ## Main purpose
 
