@@ -1,6 +1,7 @@
 # NoSQL college class project
 
 Book e-shop web-app
+![alt text](https://github.com/kutscheraa/RDBS/blob/main/databaseerd.png?raw=true)
 
 ## Main purpose
 
