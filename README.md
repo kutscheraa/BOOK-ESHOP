@@ -2,7 +2,7 @@
 
 Book e-shop web-app
 
-![alt text](https://github.com/kutscheraa/RDBS/blob/main/databaseerd.png?raw=true)
+![alt text](bookstore_preview.png)
 
 ## Main purpose
 
