@@ -1,6 +1,6 @@
 # NoSQL college class project
 
-Pizzeria web-app (e-shop)
+Book e-shop web-app
 
 ## Main purpose
 
@@ -9,8 +9,9 @@ Creating functional lightweight web-app to learn front-end/**mainly** back-end, 
 ### Tech used:
 1) DigitalOcean linux droplet
 2) Flask (Python)
-3) HTML, CSS (TAILWIND), Vue.js, Jinja
+3) HTML, Bootstrap, Jinja
 4) MongoDB + Redis for caching
 5) Docker for running both MySQL and NoSQL version of website on the same droplet
 6) Noe4J
+7) Figma for UI design
 
